@@ -1,4 +1,6 @@
-﻿public class GoHome : GAction {
+﻿using GOAP.Core;
+
+public class GoHome : GAction {
     public override bool PrePerform() {
 
         beliefs.RemoveState("atHospital");

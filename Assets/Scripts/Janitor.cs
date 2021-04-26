@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using GOAP.Core;
 
 public class Janitor : GAgent {
 

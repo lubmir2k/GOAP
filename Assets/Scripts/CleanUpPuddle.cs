@@ -1,4 +1,6 @@
-﻿public class CleanUpPuddle : GAction {
+﻿using GOAP.Core;
+
+public class CleanUpPuddle : GAction {
 
     public override bool PrePerform() {
 

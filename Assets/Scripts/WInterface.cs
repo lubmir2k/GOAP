@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.EventSystems;
+using GOAP.Core;
 
 public class WInterface : MonoBehaviour {
 

@@ -1,4 +1,6 @@
-﻿public class GoToToilet : GAction {
+﻿using GOAP.Core;
+
+public class GoToToilet : GAction {
 
     public override bool PrePerform() {
 

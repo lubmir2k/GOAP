@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
+using GOAP.Core;
 
 [CustomEditor(typeof(GAgentVisual))]
 [CanEditMultipleObjects]

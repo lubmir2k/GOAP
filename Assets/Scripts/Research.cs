@@ -1,4 +1,6 @@
-﻿public class Research : GAction {
+﻿using GOAP.Core;
+
+public class Research : GAction {
 
     public override bool PrePerform() {
 

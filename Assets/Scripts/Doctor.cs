@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+using GOAP.Core;
 public class Doctor : GAgent {
 
     new void Start() {

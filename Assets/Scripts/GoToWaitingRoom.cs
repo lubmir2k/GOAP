@@ -1,4 +1,6 @@
-﻿public class GoToWaitingRoom : GAction {
+﻿using GOAP.Core;
+
+public class GoToWaitingRoom : GAction {
     public override bool PrePerform() {
 
         return true;

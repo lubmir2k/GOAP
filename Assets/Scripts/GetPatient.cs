@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+using GOAP.Core;
 public class GetPatient : GAction {
 
     // Resource in this case = cubicle

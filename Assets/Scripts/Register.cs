@@ -1,4 +1,6 @@
-﻿public class Register : GAction {
+﻿using GOAP.Core;
+
+public class Register : GAction {
     public override bool PrePerform() {
 
         return true;

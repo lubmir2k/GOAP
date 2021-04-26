@@ -1,4 +1,6 @@
-﻿public class GoToCubicle : GAction {
+﻿using GOAP.Core;
+
+public class GoToCubicle : GAction {
 
     public override bool PrePerform() {
 

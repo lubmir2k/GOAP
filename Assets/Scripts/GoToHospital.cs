@@ -1,4 +1,6 @@
-﻿public class GoToHospital : GAction {
+﻿using GOAP.Core;
+
+public class GoToHospital : GAction {
     public override bool PrePerform() {
 
         return true;

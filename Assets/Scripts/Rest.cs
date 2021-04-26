@@ -1,4 +1,6 @@
-﻿public class Rest : GAction {
+﻿using GOAP.Core;
+
+public class Rest : GAction {
     public override bool PrePerform() {
 
         return true;

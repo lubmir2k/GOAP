@@ -1,4 +1,6 @@
-﻿public class GetTreated : GAction {
+﻿using GOAP.Core;
+
+public class GetTreated : GAction {
 
     public override bool PrePerform() {
 
